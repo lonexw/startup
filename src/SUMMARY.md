@@ -3,6 +3,7 @@
 - [Life](./life/index.md)
   - [人生三线论](./life/methodology.md)
   - [保持乐观](./life/optimistic.md)
+  - [时间管理](./life/time.md)
 - [Startup](./startup/index.md)
   - [创业初心](./startup/motivation/index.md)
   - [指导思想](./startup/guide/index.md)
