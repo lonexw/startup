@@ -1,7 +1,7 @@
 # Summary
 
 - [Life](./life/index.md)
-  - [人生三线论](./life/methodology.md)
+  - [人生三线](./life/methodology.md)
   - [保持乐观](./life/optimistic.md)
   - [时间管理](./life/time.md)
 - [Startup](./startup/index.md)
@@ -9,7 +9,9 @@
   - [指导思想](./startup/guide/index.md)
     - [做对的事情](./startup/guide/wism-choice.md)
     - [长期主义](./startup/guide/long-termism.md)
-    - [纸上得来终觉浅，绝知此事须躬行](./startup/guide/001.md)
+    - [置身其中](./startup/guide/001.md)
   - [合伙创业](./startup/partnership/index.md)
+- [Company](./company/index.md)
+  - [胖东来](./company/donglai.md)
 - [Tools](./tools/index.md)
   - [AI 编程](./tools/ai-powered-code.md)
