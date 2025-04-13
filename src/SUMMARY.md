@@ -11,6 +11,8 @@
     - [长期主义](./startup/guide/long-termism.md)
     - [置身其中](./startup/guide/001.md)
   - [合伙创业](./startup/partnership/index.md)
+  - [经营管理](./jingying/index.md)
+    - [两个尊重](./jingying/two_repects.md)
 - [Company](./company/index.md)
   - [胖东来](./company/donglai.md)
 - [Tools](./tools/index.md)
