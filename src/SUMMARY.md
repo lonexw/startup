@@ -16,5 +16,6 @@
     - [两个尊重](./jingying/two_repects.md)
 - [Company](./company/index.md)
   - [胖东来](./company/donglai.md)
+  - [元气森林](./company/yuanqisenlin.md)
 - [Tools](./tools/index.md)
   - [AI 编程](./tools/ai-powered-code.md)
